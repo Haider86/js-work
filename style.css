@@ -1,0 +1,26 @@
+.poro{
+    font-size: 45px;
+    color: brown;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+
+
+.row{
+    max-width: 1140px;
+    margin: 0;
+    
+}
+
+.textInput{
+    margin: 50px 500px;
+/*    padding: 5px;*/
+}
+
+
+.textSubmit{
+    margin-left: 550px;
+    margin-top: -25px;
+    text-align: center;
+}
